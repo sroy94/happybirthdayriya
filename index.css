@@ -1,0 +1,33 @@
+body {
+  background-color: #fafafa;
+  font-family: HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue",
+    Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+.mainheading {
+  font-family: "Sacramento", cursive;
+  font-size: 7em;
+  color: rgb(254, 132, 129);
+  text-align: center;
+}
+.second {
+  font-family: "Sacramento", cursive;
+  font-size: 3em;
+  color: #b9a8a9;
+  text-align: center;
+}
+p {
+  font-weight: 100;
+  line-height: 2;
+  text-align: center;
+}
+
+.third {
+  font-family: 'Abel', sans-serif;
+  font-size: 3em;
+  color: #b9a8a9;
+  text-align: center;
+}
+.audio{
+    display: flex;
+    align-self: center;
+}
